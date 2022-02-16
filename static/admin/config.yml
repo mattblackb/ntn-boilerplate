@@ -52,7 +52,7 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string', required: true }
       - { label: 'Description', name: 'description', widget: 'string', required: false }
       - { label: 'Header title', name: 'htitle', widget: 'string', required: true }
-       - {
+      - {
           label: 'Body Image',
           name: 'bodyImage',
           widget: 'image',
