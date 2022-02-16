@@ -40,8 +40,8 @@ collections:
             }
           # - { label: Site Email, name: siteemail, widget: string, required: false }
   - name: 'pages'
-    label: 'pages'
-    folder: 'content'
+    label: 'Blog'
+    folder: 'content/blog'
     create: true
     format: 'frontmatter'
     slug: '{{fields.createdAt}}-{{slug}}'
