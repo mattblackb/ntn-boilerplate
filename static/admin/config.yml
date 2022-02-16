@@ -52,13 +52,10 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string', required: true }
       - { label: 'Description', name: 'description', widget: 'string', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown', required: false }
-      - {label: "Featured Image",
-        name: "thumbnail",
-        widget: "image",
-        choose_url: true,
-        default: "/static/img/placeholder-320x180.png",
-        media_library:
-          config:
-            multiple: false }
-
-
+      - {
+          label: 'Featured Image',
+          name: 'thumbnail',
+          widget: 'image',
+          choose_url: true,
+          default: '/static/img/placeholder-320x180.png',
+        }
