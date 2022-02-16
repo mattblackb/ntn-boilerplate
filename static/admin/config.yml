@@ -51,6 +51,14 @@ collections:
       - { label: 'Created Date', name: 'createdAt', widget: 'datetime', date_format: 'YYYY-MM-DD', time_format: false }
       - { label: 'Title', name: 'title', widget: 'string', required: true }
       - { label: 'Description', name: 'description', widget: 'string', required: false }
+      - { label: 'Header title', name: 'htitle', widget: 'string', required: true }
+       - {
+          label: 'Body Image',
+          name: 'bodyImage',
+          widget: 'image',
+          choose_url: true,
+          default: '/static/img/wellness.png',
+        }
       - { label: 'Body', name: 'body', widget: 'markdown', required: false }
       - {
           label: 'Featured Image',
