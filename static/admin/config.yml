@@ -40,11 +40,11 @@ collections:
             }
           # - { label: Site Email, name: siteemail, widget: string, required: false }
   - name: 'pages'
-    label: 'Blog'
-    folder: 'content/blog'
+    label: 'Pages'
+    folder: 'content'
     create: true
     format: 'frontmatter'
-    slug: '{{fields.createdAt}}-{{slug}}'
+    slug: '{{slug}}'
     # editor:
     #   preview: true
     fields:
@@ -52,3 +52,13 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string', required: true }
       - { label: 'Description', name: 'description', widget: 'string', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown', required: false }
+      - {label: "Featured Image"
+        name: "thumbnail"
+        widget: "image"
+        choose_url: true
+        default: "/static/img/placeholder-320x180.png"
+        media_library:
+          config:
+            multiple: false }
+
+
