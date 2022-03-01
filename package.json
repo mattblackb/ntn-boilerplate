@@ -16,10 +16,13 @@
   "license": "MIT",
   "dependencies": {
     "@nuxt/content": "^1.14.0",
+    "@nuxt/markdown": "0.0.21",
+    "@nuxtjs/markdownit": "^2.0.0",
     "nuxt": "^2.15.8"
   },
   "devDependencies": {
     "@nuxtjs/color-mode": "^2.1.1",
+    "@nuxtjs/markdownit-loader": "^1.2.0",
     "@nuxtjs/pwa": "^3.3.5",
     "@nuxtjs/svg": "^0.3.0",
     "@nuxtjs/vuetify": "^1.12.3",

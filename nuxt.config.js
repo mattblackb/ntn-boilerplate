@@ -1,5 +1,4 @@
-import postcssPresetEnv from 'postcss-preset-env'
-import postcssEasingGradients from 'postcss-easing-gradients'
+
 import * as SITE_INFO from './content/site/info.json'
 import { COLOR_MODE_FALLBACK } from './utils/globals.js'
 
@@ -76,23 +75,20 @@ export default {
   /*
    ** Nuxt.js modules
    */
-  modules: ['@nuxt/content','@nuxtjs/vuetify', 'nuxt-purgecss'],
+  modules: ['@nuxt/content','@nuxtjs/vuetify',  '@nuxtjs/markdownit'],
+  markdownit: {
+    preset: 'default',
+    linkify: true,
+    breaks: true,
+    injected: true,
+    runtime: true
+  },
   /*
    ** Build configuration
    */
   build: {
     extractCSS: true,
-    postcss: {
-      plugins: {
-        'postcss-preset-env': postcssPresetEnv({
-          stage: 1,
-          features: {
-            'nesting-rules': false
-          }
-        }),
-        'postcss-easing-gradients': postcssEasingGradients
-      }
-    },
+   
     /*
      ** You can extend webpack config here
      */
@@ -110,24 +106,7 @@ export default {
     cssPath: '~/assets/css/main.pcss',
     exposeConfig: false // enables `import { theme } from '~tailwind.config'`
   },
-  purgeCSS: {
-    mode: 'postcss',
-    // ? Safelisting docs: https://purgecss.com/safelisting.html
-    safelist: {
-      // standard: [],
-      deep: [/dark/, /light/, /btn/, /icon/, /main/],
-      greedy: [
-        /^card/,
-        /image$/,
-        /title$/,
-        /^nuxt-content/,
-        /code/,
-        /pre/,
-        /token/,
-        /^vue-content-placeholders/
-      ]
-    }
-  },
+ 
   colorMode: {
     classSuffix: '',
     preference: 'system', // default value of $colorMode.preference

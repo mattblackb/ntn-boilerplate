@@ -1,17 +1,14 @@
 <template>
   <v-app id="page-container">
-         <div style="margin-bottom: 335px">
-        <v-container >
-                     <Header />
+      <Header />
+     
+                 <nuxt />
+      
+                 
 
-
-           </v-container>
-                    <nuxt />
-                        <ColorModePicker />
-      <v-container id="footer" class="mt-10" >     
           <Footer />
-      </v-container>
-         </div>
+  
+
 </v-app>
    
 </template>
