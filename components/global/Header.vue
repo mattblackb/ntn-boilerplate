@@ -30,7 +30,7 @@
             <v-btn  depressed
         color="#e36a42" to="/" text>Home</v-btn>
             <v-btn depressed
-        color="#e36a42"  to="/classes" text>Classes</v-btn>
+        color="#e36a42"  to="/services" text>Services</v-btn>
             <v-btn   depressed
         color="#e36a42" to="/gradings" text>Gradings</v-btn>
       </v-col>
