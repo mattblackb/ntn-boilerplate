@@ -28,11 +28,11 @@
         </v-col>
         <v-col cols="12"  sm="12" md="6" class="d-flex justify-end align-center" >
             <v-btn  depressed
-        color="#e36a42" to="/" text>Home</v-btn>
+        color="#e36a42" to="/" text class="mr-2">Home</v-btn>
             <v-btn depressed
-        color="#e36a42"  to="/services" text>Services</v-btn>
+        color="#e36a42"  to="/services" text class="mr-2">Services</v-btn>
             <v-btn   depressed
-        color="#e36a42" to="/gradings" text>Gradings</v-btn>
+        color="#e36a42" to="/gallery" text>Gallery</v-btn>
       </v-col>
   </v-row>
     </v-container>
@@ -55,6 +55,7 @@ export default {
 
 </style>
 <style>
+.v-btn { background-color: #e36a42;}
 .v-btn__content{ color: black!important}
 a.v-btn { box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.49)!important}
 </style>
