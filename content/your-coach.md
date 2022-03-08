@@ -3,8 +3,8 @@ createdAt: 2022-03-08T18:11:24.825Z
 title: Your Coach
 description: Your Coach
 htitle: Your Coach
-bodyImage: /img/dsc8446-1-1980x1320.jpeg
-thumbnail: /img/screenshot-2022-03-08-at-18.16.05.png
+bodyImage: /img/screenshot-2022-03-08-at-18.16.05.png
+thumbnail: /img/dsc8446-1-1980x1320.jpeg
 ---
 The journey started by light walks which then led to slow jogging which progressed to speed walking and running.
 
