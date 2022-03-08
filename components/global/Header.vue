@@ -26,13 +26,21 @@
           <h3> Wellness Coach - Voodoo Performance Coaching </h3>
           <p>For Your Health For Life Since 2008</p>
         </v-col>
-        <v-col cols="12"  sm="12" md="6" class="d-flex justify-end align-center" >
-            <v-btn  depressed
-        color="#e36a42" to="/" text class="mr-2">Home</v-btn>
-            <v-btn depressed
-        color="#e36a42"  to="/services" text class="mr-2">Services</v-btn>
-            <v-btn   depressed
-        color="#e36a42" to="/gallery" text>Gallery</v-btn>
+        <v-col cols="12"  sm="12" md="6" class="justify-end align-center d-sm-none d-md-flex d-none"  >
+            <v-btn  depressed  color="#e36a42" to="/" text class="mr-2">Home</v-btn>
+            <v-btn depressed  color="#e36a42"  to="/services" text class="mr-2">Services</v-btn>
+            <v-btn   depressed  color="#e36a42" to="/gallery" text class="mr-2">Gallery</v-btn>
+           <v-btn depressed color="#e36a42"  to="/yourcoach" text class="mr-2">Your Coach</v-btn>
+                  <v-btn   depressed
+        color="#e36a42" to="/contact" text>Contact</v-btn>
+      </v-col>
+
+      <v-col class="d-md-none" cols="12">
+        <nuxt-link to="/">Home</nuxt-link></br>
+         <nuxt-link to="/services">Services</nuxt-link></br>
+          <nuxt-link to="/gallery">Gallery</nuxt-link></br>
+          <nuxt-link to="/yourcoach">Your Coach</nuxt-link></br>
+           <nuxt-link to="/contact">Contact</nuxt-link></br>
       </v-col>
   </v-row>
     </v-container>
@@ -50,7 +58,8 @@ export default {
 
 <style scoped>
   h3 {color: #e36a42; font-size: 26px; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.49);}
-  
+  .nuxt-link-active { color: #e36a42}
+  a {color: white}
   .dark {background-color: rgba(36, 35, 35, 0.3); color: white; position: fixed; z-index: 10; width: 100vw}
 
 </style>
