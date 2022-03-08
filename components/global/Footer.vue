@@ -8,7 +8,7 @@
                              <img src = "/img/voodooperformance_logo-300x300.png">
                                 <v-row class="mt-5 mb-5 ml-2">
                                 <h3>Tel: 07764 853888<br/><br/>
-                                <a href="mailto:voodoohive@gmail.com">Email: 07764 853888</a></h3>
+                                <a href="mailto:voodoohive@gmail.com">Email: voodoohive@gmail.com</a></h3>
                             </v-row>
                         
                         </v-col>
