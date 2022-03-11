@@ -4,7 +4,7 @@
         <v-container>
                 
                     <v-row justify="space-around">
-                        <v-col cols="4" sm="12" md="4">
+                        <v-col cols="12" sm="12" md="4">
                              <img src = "/img/voodooperformance_logo-300x300.png">
                                 <v-row class="mt-5 mb-5 ml-2">
                                 <h3>Tel: 07764 853888<br/><br/>
@@ -13,7 +13,7 @@
                         
                         </v-col>
 
-                        <v-col cols="8" sm="12" md="8">
+                        <v-col cols="12" sm="12" md="8">
                             
                          <v-row class="mt-5">
                                 <v-col cols="4">

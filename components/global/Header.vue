@@ -35,7 +35,7 @@
         color="#e36a42" to="/contact" text>Contact</v-btn>
       </v-col>
 
-      <v-col class="d-md-none" cols="12">
+      <v-col class="d-md-none mobile-menu" cols="12">
         <nuxt-link to="/">Home</nuxt-link></br>
          <nuxt-link to="/services">Services</nuxt-link></br>
           <nuxt-link to="/gallery">Gallery</nuxt-link></br>
@@ -61,7 +61,15 @@ export default {
   .nuxt-link-active { color: #e36a42}
   a {color: white}
   .dark {background-color: rgba(36, 35, 35, 0.3); color: white; position: fixed; z-index: 10; width: 100vw}
-
+  .mobile-menu { margin-top: 200px;}
+  .mobile-menu a {
+    background-color: rgba(36, 35, 35, 0.3);
+    width: 100%;
+    padding: 3px 4px;
+    text-align: center;
+    display: inline-block;
+    margin-bottom: 1px;
+  }
 </style>
 <style>
 .v-btn { background-color: #e36a42;}
