@@ -25,7 +25,7 @@
     "@nuxtjs/color-mode": "^2.1.1",
     "@nuxtjs/markdownit-loader": "^1.2.0",
     "@nuxtjs/pwa": "^3.3.5",
-    "@nuxtjs/svg": "^0.3.0",
+    "@nuxtjs/svg": "^0.4.0",
     "@nuxtjs/vuetify": "^1.12.3",
     "eslint": "^8.2.0",
     "eslint-config-prettier": "^8.3.0",
