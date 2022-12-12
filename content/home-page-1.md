@@ -1,25 +1,26 @@
 ---
 createdAt: 2022-02-16T14:17:42.851Z
 title: Home Page
-description: Voodoo performance one to ones
-htitle: Wellness at Home
-bodyImage: /img/wellness.jpg
+description: Your Coach 121 Ltd
+htitle: Upcoming Courses
+bodyImage: /img/circle-of-adults-web-size.jpg
 thumbnail: /img/dsc8771-1980x1392.jpeg
 ---
-**Health and Wellness Programs**\
+**Courses at your workplace or at selected venues**\
 \
-Let us come to you and guide you step-by-step through your’e bespoke program in the comfort of your own home.\
+Join us at one of our courses or let us bring the classroom to you. \
 \
-Sessions are tailored to you based on your’e individual aims and goals and can include;\
+**Children's First Aid** – A first aid course aimed at under 12 year olds.\
+**Defibrillator and CPR** – The basics of cardiopulmonary resuscitation and the safe use of a defibrillator machine. \
+**Safeguarding Course** – Knowing that you are doing all you can to safeguard children and vulnerable adults. \
+**Self-Defence** – Knowing what to do if you are faced with danger. \
+**Children's Life Skills** – These course can include, money skills, stranger danger, team games, anti-bullying and good food.\
 \
-**Mobility** – Getting out and about, whether to the shops or on scenic stroll.\
-**Exercise** – A program tailored to meet your needs.\
-**Boxing** – Staying healthy whilst having fun and learning a new skill.\
-**Kickboxing** – A challenging all-over-body fun sport to stay healthy.\
-**Healthy Cooking Advice** – Help with preparing nutritious meals that anyone can make.\
-**Chair Exercises** – For the young at heart.\
+Course dates and more details:
+
+
+
 \
-The Wellness Coach will assess your personal needs and goals and carry out a health check before your’e bespoke package is designed.\
 \
 **Cost:**\
 One individual (one hour) session is **£48**,\
