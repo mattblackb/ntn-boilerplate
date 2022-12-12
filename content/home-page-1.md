@@ -4,7 +4,7 @@ title: Home Page
 description: Your Coach 121 Ltd
 htitle: Upcoming Courses
 bodyImage: /img/circle-of-adults-web-size.jpg
-thumbnail: /img/dsc8771-1980x1392.jpeg
+thumbnail: /img/cpr-web-size.jpg
 ---
 **Courses at your workplace or at selected venues**\
 \
@@ -39,9 +39,3 @@ S﻿unday 26th March, 2pm - 4.30pm (Voodoo Gym, Macclesfield, Cheshire, SK11 6DP
 **S﻿elf-Defence Courses 2023**
 
 **C﻿hildrens Life-Skills 2023**
-
-\
-\
-**Cost:**\
-One individual (one hour) session is **£48**,\
-Or you can purchase a block of 12 (one hour) sessions at a discounted rate of **£528**, that works out as only **£44** per session.
