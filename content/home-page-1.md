@@ -16,9 +16,12 @@ Join us at one of our courses or let us bring the classroom to you. \
 **Self-Defence** – Knowing what to do if you are faced with danger. \
 **Children's Life Skills** – These course can include, money skills, stranger danger, team games, anti-bullying and good food.\
 \
-Course dates and more details:
+Course dates and full course details:
 
-
+**Children's First Aid** - £20 per child (Voodoo Gym, Macclesfield, Cheshire, SK11 6DP\
+T﻿hursday 13th April 4pm - 6pm - £20 per child\
+T﻿hursday 27th July 4pm - 6pm - £20 per child\
+T﻿hursday 26th October 4pm - 6pm - £20 per child
 
 \
 \
