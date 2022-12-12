@@ -1,15 +1,15 @@
 ---
-createdAt: 2022-03-08T18:27:18.199Z
+createdAt: 2022-12-12T21:58:59.500Z
 title: Contact
-description: Contact
-htitle: Contact
-bodyImage: /img/placeholder-320x180.png
-thumbnail: /img/pam-with-weight-1-1980x1320.jpeg
+description: Your Coach 121 Ltd
+htitle: Heath and Sport Related Training & Courses
+bodyImage: /img/children-learning-web-size.jpg
+thumbnail: /img/childrens-party-web-size.jpeg
 ---
 ![](/img/screenshot-2022-03-08-at-18.31.20.png)
 
 **Amanda Kari\
-Wellness Coach – Voodoo Performance Coaching**\
+Health & Sports Coach / Course Trainer - Your Coach 121 Ltd**\
 **Phone: 07764 853888\
 Head Office: 114 Park Lane, Macclesfield, Cheshire, SK11 6UA\
 E-Mail: yourcoach121@gmail.com\
