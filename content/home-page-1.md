@@ -18,10 +18,27 @@ Join us at one of our courses or let us bring the classroom to you. \
 \
 Course dates and full course details:
 
-**Children's First Aid** - £20 per child (Voodoo Gym, Macclesfield, Cheshire, SK11 6DP\
-T﻿hursday 13th April 4pm - 6pm - £20 per child\
-T﻿hursday 27th July 4pm - 6pm - £20 per child\
-T﻿hursday 26th October 4pm - 6pm - £20 per child
+**Children's First Aid  2023** - £20 per child (Voodoo Gym, Macclesfield, Cheshire, SK11 6DP)\
+T﻿hursday 13th April, 4pm - 6pm - £20 per child\
+T﻿hursday 27th July, 4pm - 6pm - £20 per child\
+T﻿hursday 26th October, 4pm - 6pm - £20 per child
+
+**CPR and Defibrillator Courses 2023** - £45 per person\
+S﻿unday 5th March, 2.30pm - 4.30pm (Voodoo Gym, Macclesfield, Cheshire, SK11 6DP)\
+F﻿riday 10th March, 1pm - 3pm (St Edwards Centre, Hollow Lane, Cheddleton, Leek, ST13 7HP)\
+S﻿unday 16th April, 2.30pm - 4.30pm (Voodoo Gym, Macclesfield, Cheshire, SK11 6DP)\
+S﻿unday 4th June, 2.30pm - 4.30pm (Voodoo Gym, Macclesfield, Cheshire, SK11 6DP)\
+F﻿riday 23rd June, 4pm - 6pm (St Edwards Centre, Hollow Lane, Cheddleton, Leek, ST13 7HP)\
+M﻿onday 10th July, 4pm - 6pm (St Edwards Centre Cheddleton, Leek, ST13 7HP)\
+S﻿unday 17th September, 2.30pm - 4.30pm (Voodoo Gym, Macclesfield, Cheshire, SK11 6DP)\
+S﻿unday 8th October, 12.30pm - 2.30pm (St Edwards Centre, Hollow Lane, Cheddleton, Leek, ST13 7HP)\
+\
+**Safeguarding Courses 2023** - £45 per person \
+S﻿unday 26th March, 2pm - 4.30pm (Voodoo Gym, Macclesfield, Cheshire, SK11 6DP)
+
+**S﻿elf-Defence Courses 2023**
+
+**C﻿hildrens Life-Skills 2023**
 
 \
 \
