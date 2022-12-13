@@ -1,5 +1,5 @@
 ---
-createdAt: 2022-12-13T08:32:42.226Z
+createdAt: 2022-12-13T08:57:37.924Z
 title: Services
 description: Your Coach 121 Ltd Services
 htitle: Services
@@ -49,13 +49,11 @@ Course dates and full course details:
 
 **S﻿elf-Defence Courses 2023**
 
-*
-
+\
 **C﻿hildrens Life-Skills 2023**
 
-*
 
-<!--EndFragment-->\
+
 \
 **P﻿ERSONAL TRAINING** \
 \
