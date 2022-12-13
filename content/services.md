@@ -1,5 +1,5 @@
 ---
-createdAt: 2022-03-01T16:19:29.099Z
+createdAt: 2022-12-13T08:32:42.226Z
 title: Services
 description: Your Coach 121 Ltd Services
 htitle: Services
@@ -13,9 +13,13 @@ thumbnail: /img/dsc9251-1980x1320.jpeg
 Join us at one of our courses or let us bring the classroom to you.\
 \
 **Children's First Aid** – A first aid course aimed at under 12 year olds.\
+\
 **Defibrillator and CPR** – The basics of cardiopulmonary resuscitation and the safe use of a defibrillator machine.\
+\
 **Safeguarding Course** – Knowing that you are doing all you can to safeguard children and vulnerable adults.\
+\
 **Self-Defence** – Knowing what to do if you are faced with danger.\
+\
 **Children's Life Skills** – These course can include, money skills, stranger danger, team games, anti-bullying and good food.\
 \
 Course dates and full course details:
@@ -26,6 +30,7 @@ Course dates and full course details:
 * T﻿hursday 27th July, 4pm - 6pm 
 * T﻿hursday 26th October, 4pm - 6pm 
 
+\
 **CPR and Defibrillator Courses 2023** - £45 per person
 
 * S﻿unday 5th March, 2.30pm - 4.30pm (Voodoo Gym, Macclesfield, Cheshire, SK11 6DP)
@@ -40,11 +45,11 @@ Course dates and full course details:
 \
 \
 \
-\
-**Safeguarding Courses 2023** - £45 per person\
-S﻿unday 26th March, 2pm - 4.30pm (Voodoo Gym, Macclesfield, Cheshire, SK11 6DP)
+**Safeguarding Courses 2023** - £45 per person
 
-*
+\
+\
+S﻿unday 26th March, 2pm - 4.30pm (Voodoo Gym, Macclesfield, Cheshire, SK11 6DP)
 
 **S﻿elf-Defence Courses 2023**
 
