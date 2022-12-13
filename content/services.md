@@ -3,7 +3,7 @@ createdAt: 2022-12-13T09:06:13.653Z
 title: Courses & Programmes
 description: Your Coach 121 Ltd Services
 htitle: Services
-bodyImage: /img/first-aid-teddy-web-size.jpg
+bodyImage: /img/first-aid-bandage-web-size.jpg
 thumbnail: /img/dsc9251-1980x1320.jpeg
 ---
 **C﻿OURSES**
