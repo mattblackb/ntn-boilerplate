@@ -3,7 +3,7 @@ createdAt: 2022-12-13T09:06:13.653Z
 title: Courses & Programmes
 description: Your Coach 121 Ltd Services
 htitle: Services
-bodyImage: /img/self-defense.jpg
+bodyImage: /img/dsc8771-1980x1392.jpeg
 thumbnail: /img/dsc9251-1980x1320.jpeg
 ---
 **C﻿OURSES**
