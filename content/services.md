@@ -43,20 +43,39 @@ Course dates and full course details:
 * S﻿unday 8th October, 12.30pm - 2.30pm (St Edwards Centre, Hollow Lane, Cheddleton, Leek, ST13 7HP)
 
 \
-\
-\
 **Safeguarding Courses 2023** - £45 per person
 
-\
-\
-S﻿unday 26th March, 2pm - 4.30pm (Voodoo Gym, Macclesfield, Cheshire, SK11 6DP)
+* S﻿unday 26th March, 2pm - 4.30pm (Voodoo Gym, Macclesfield, Cheshire, SK11 6DP)
 
 **S﻿elf-Defence Courses 2023**
 
+*
+
 **C﻿hildrens Life-Skills 2023**
 
-<!--EndFragment-->
+*
 
+<!--EndFragment-->\
+\
+**P﻿ERSONAL TRAINING** \
+\
+**Bespoke Personal Training Programs**\
+**(Studio Based)**\
+The first time you come we will discuss your goals, expectations and concerns. Together we will come up with a plan of action and then make it happen.\
+The sessions consist of a one hour class specializing in the development you require, including injury & illness rehabilitation.\
+\
+**Kickboxing or Brazilian Jiu Jitsu Lessons and Grading**\
+**(adults & children from 4 years)**\
+Do you want to learn a martial art?\
+You can get fit and at the same time learn a new skill. Amanda can teach and grade you in your chosen martial art.\
+\
+**Cost:**\
+One individual (one hour) class is **£32**,\
+Or you can purchase a block of 12 (one hour) classes at a discounted rate of **£324**, that works out as only **£27** per session.
+
+\
+**H﻿OME-BASED WELLNESS PROGRAMMES**\
+\
 **Home Visit – Health and Wellness Programs**\
 These programs are carried out in the comfort of the client’s own home. Sessions are tailored to the clients individual needs.\
 Mobility – Getting out and about.\
@@ -72,22 +91,8 @@ The Wellness Coach will assess your personal needs and goals and carry out a hea
 One individual (one hour) session is **£48**,\
 Or you can purchase a block of 12 (one hour) sessions at a discounted rate of **£528**, that works out as only **£44** per session.
 
-**Self-Defense Classes** – Classes run in Cheddleton, Leek and Macclesfield.\
 \
-**Boxing Classes for Health and Wellness** – Classes run in Cheddleton, Leek.\
-\
-**Cost:**\
-**£6** per class or **£66** for 12 classes
-
-**Bespoke Personal Training Programs**\
-**(Studio Based)**\
-The first time you come we will discuss your goals, expectations and concerns. Together we will come up with a plan of action and then make it happen.\
-The sessions consist of a one hour class specializing in the development you require, including injury & illness rehabilitation.\
-\
-**Kickboxing or Brazilian Jiu Jitsu Lessons and Grading**\
-**(adults & children from 4 years)**\
-Do you want to learn a martial art?\
-You can get fit and at the same time learn a new skill. Amanda can teach and grade you in your chosen martial art.\
+**H﻿EALTH & NUTRITION**\
 \
 **Nutritional Advice**\
 Do you want to learn more about what you eat?\
