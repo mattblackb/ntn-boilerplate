@@ -1,10 +1,10 @@
 ---
-createdAt: 2022-12-14T14:12:30.386Z
+createdAt: 2022-12-14T14:21:53.797Z
 title: Home Page
 description: Your Coach 121 Ltd
-htitle: Courses (First Aid, Life Skills, Safeguarding)        Personal
-  Training            Martial Arts            Nutrition
-bodyImage: /img/circle-of-adults-web-size.jpg
+htitle: Courses (First Aid, Life Skills, Safeguarding) / Personal Training /
+  Martial Arts / Nutrition
+bodyImage: /img/bjj-web-size.jpeg
 thumbnail: /img/cpr-web-size.jpg
 ---
 **C﻿OURSES**
