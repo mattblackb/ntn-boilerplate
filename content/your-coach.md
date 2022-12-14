@@ -21,7 +21,7 @@ She now has numerous qualifications and a vast amount of experience under her be
 ![](http://voodooperformancecoaching.co.uk/wp-content/uploads/2021/02/13-681x1024.jpg)
 
 **Amanda’s Sports Qualifications:**\
-Sports and Coaching Masters Degree (ongoing 3rd year)\
+Sports and Coaching Masters Degree (ongoing 4th year)\
 Level 5 Advance Diploma in Diet & Nutrition\
 Level 4 Obesity & Diabetes Practitioner (weight-loss specialist)\
 Level 4 Master Personal Trainer\
@@ -41,7 +41,7 @@ Spinning (Indoor Cycling) Instructor
 Martial Arts Coach Instructor\
 Level 1 Martial Arts Coach\
 Self Defense Instructor\
-3rd Dan Black Belt Kickboxing\
+4th Dan Black Belt Kickboxing\
 2nd Dan Black Belt Freestyle Kickboxing\
 Brazilian Jiu Jitsu Purple Belt\
 Experienced and Trained Corner-Man
