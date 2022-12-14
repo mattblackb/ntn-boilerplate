@@ -2,7 +2,7 @@
 createdAt: 2022-12-14T14:23:25.812Z
 title: Courses & Programmes
 description: Your Coach 121 Ltd Services
-htitle: Services
+htitle: Courses & Programmes
 bodyImage: /img/circle-of-adults-web-size.jpg
 thumbnail: /img/circle-of-adults-web-size.jpg
 ---
