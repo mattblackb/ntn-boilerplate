@@ -4,7 +4,7 @@ title: Courses & Programmes
 description: Your Coach 121 Ltd Services
 htitle: Services
 bodyImage: /img/circle-of-adults-web-size.jpg
-thumbnail: /img/dsc9251-1980x1320.jpeg
+thumbnail: /img/circle-of-adults-web-size.jpg
 ---
 **C﻿OURSES**
 
