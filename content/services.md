@@ -28,7 +28,7 @@ Course dates and full course details:
 
 * T﻿hursday 13th April, 4pm - 6pm
 * T﻿hursday 27th July, 4pm - 6pm 
-* T﻿hursday 26th October, 4pm - 6pm 
+* T﻿hursday 26th October, 4pm - 6pm (FULL)
 
 \
 **CPR and Defibrillator Courses 2023** - £45 per person
@@ -51,8 +51,6 @@ Course dates and full course details:
 
 \
 **C﻿hildrens Life-Skills 2023**
-
-
 
 \
 **P﻿ERSONAL TRAINING** \
