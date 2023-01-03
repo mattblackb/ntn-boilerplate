@@ -8,7 +8,9 @@ htitle: Courses (First Aid, Life Skills, Safeguarding) / Personal Training /
 bodyImage: /img/cpr-web-size.jpg
 thumbnail: /img/self-defense.jpg
 ---
-**C﻿OURSES**
+**C﻿OURSES**\
+\
+**Visit and book our events here:** https://www.eventbrite.com/o/your-coach-121-58469591043 
 
 **Courses at your workplace or at selected venues**\
 \
